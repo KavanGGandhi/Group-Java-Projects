@@ -1,0 +1,2103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<car_list>
+	<car>
+		<plate>962ZGD</plate>
+		<year>1970</year>
+		<make>Chevrolet</make>
+		<model>Chevelle Super Sport 454</model>
+		<price>23865</price>
+	</car>
+	<car>
+		<plate>492EBP</plate>
+		<year>2007</year>
+		<make>Honda</make>
+		<model>Civic Type R</model>
+		<price>27550</price>
+	</car>
+	<car>
+		<plate>314XLM</plate>
+		<year>2018</year>
+		<make>Hot Wheels</make>
+		<model>2 Jet Z</model>
+		<price>20159</price>
+	</car>
+	<car>
+		<plate>851YQJ</plate>
+		<year>1969</year>
+		<make>Nissan</make>
+		<model>Fairlady Z 432</model>
+		<price>14073</price>
+	</car>
+	<car>
+		<plate>081AMW</plate>
+		<year>1991</year>
+		<make>Hoonigan</make>
+		<model>Rauh-Welt Begriff Porsche 911 Turbo</model>
+		<price>13043</price>
+	</car>
+	<car>
+		<plate>012WJX</plate>
+		<year>2015</year>
+		<make>Jaguar</make>
+		<model>F-TYPE R CoupÃ©</model>
+		<price>15517</price>
+	</car>
+	<car>
+		<plate>107URS</plate>
+		<year>1986</year>
+		<make>Hoonigan</make>
+		<model>Ford RS200 Evolution</model>
+		<price>8435</price>
+	</car>
+	<car>
+		<plate>456IXB</plate>
+		<year>2007</year>
+		<make>Ferrari</make>
+		<model>430 Scuderia</model>
+		<price>25914</price>
+	</car>
+	<car>
+		<plate>703CAK</plate>
+		<year>2017</year>
+		<make>Ford</make>
+		<model>F-150 Raptor</model>
+		<price>5119</price>
+	</car>
+	<car>
+		<plate>352CYZ</plate>
+		<year>2004</year>
+		<make>Honda</make>
+		<model>Civic Type R</model>
+		<price>19612</price>
+	</car>
+	<car>
+		<plate>991AVK</plate>
+		<year>2014</year>
+		<make>McLaren</make>
+		<model>650S Spider</model>
+		<price>2548</price>
+	</car>
+	<car>
+		<plate>672LWW</plate>
+		<year>2018</year>
+		<make>Honda</make>
+		<model>Civic Type R</model>
+		<price>26548</price>
+	</car>
+	<car>
+		<plate>673DBJ</plate>
+		<year>1986</year>
+		<make>MG</make>
+		<model>Metro 6R4</model>
+		<price>17170</price>
+	</car>
+	<car>
+		<plate>184AFH</plate>
+		<year>2017</year>
+		<make>Ford</make>
+		<model>GT</model>
+		<price>1935</price>
+	</car>
+	<car>
+		<plate>221NLA</plate>
+		<year>2003</year>
+		<make>Toyota</make>
+		<model>Celica SS-I</model>
+		<price>11382</price>
+	</car>
+	<car>
+		<plate>534RNL</plate>
+		<year>1964</year>
+		<make>Ford</make>
+		<model>GT40 Mk I</model>
+		<price>33820</price>
+	</car>
+	<car>
+		<plate>508EAE</plate>
+		<year>1971</year>
+		<make>Meyers</make>
+		<model>Manx Forza Edition</model>
+		<price>30304</price>
+	</car>
+	<car>
+		<plate>500WPZ</plate>
+		<year>1977</year>
+		<make>Ford</make>
+		<model>#5 Escort RS1800 MKII</model>
+		<price>15146</price>
+	</car>
+	<car>
+		<plate>667FWN</plate>
+		<year>2006</year>
+		<make>Hummer</make>
+		<model>H1 Alpha</model>
+		<price>14189</price>
+	</car>
+	<car>
+		<plate>291IYQ</plate>
+		<year>2012</year>
+		<make>Hot Wheels</make>
+		<model>Bad To The Blade</model>
+		<price>32870</price>
+	</car>
+	<car>
+		<plate>030FOX</plate>
+		<year>1997</year>
+		<make>Nissan</make>
+		<model>Skyline GT-R V-Spec</model>
+		<price>14172</price>
+	</car>
+	<car>
+		<plate>382GDH</plate>
+		<year>1992</year>
+		<make>Toyota</make>
+		<model>Celica GT-Four RC ST185</model>
+		<price>8288</price>
+	</car>
+	<car>
+		<plate>776QHU</plate>
+		<year>1965</year>
+		<make>Mini</make>
+		<model>Cooper S Forza Edition</model>
+		<price>6540</price>
+	</car>
+	<car>
+		<plate>987IOW</plate>
+		<year>2019</year>
+		<make>McLaren</make>
+		<model>Speedtail</model>
+		<price>29958</price>
+	</car>
+	<car>
+		<plate>945RDY</plate>
+		<year>2002</year>
+		<make>Nissan</make>
+		<model>Skyline GT-R V-Spec II</model>
+		<price>4219</price>
+	</car>
+	<car>
+		<plate>783MOU</plate>
+		<year>1997</year>
+		<make>Lotus</make>
+		<model>Elise GT1</model>
+		<price>15206</price>
+	</car>
+	<car>
+		<plate>658BXL</plate>
+		<year>1997</year>
+		<make>Mitsubishi</make>
+		<model>GTO</model>
+		<price>38728</price>
+	</car>
+	<car>
+		<plate>414FJF</plate>
+		<year>1994</year>
+		<make>Ferrari</make>
+		<model>F355 Berlinetta</model>
+		<price>7215</price>
+	</car>
+	<car>
+		<plate>634QKG</plate>
+		<year>2021</year>
+		<make>Aston Martin</make>
+		<model>DBX</model>
+		<price>2289</price>
+	</car>
+	<car>
+		<plate>845OVL</plate>
+		<year>1987</year>
+		<make>Nissan</make>
+		<model>Skyline GTS-R (HR31)</model>
+		<price>34543</price>
+	</car>
+	<car>
+		<plate>111YTU</plate>
+		<year>2013</year>
+		<make>Mercedes-Benz</make>
+		<model>E 63 AMG</model>
+		<price>21397</price>
+	</car>
+	<car>
+		<plate>890FAW</plate>
+		<year>2010</year>
+		<make>Maserati</make>
+		<model>Gran Turismo S Forza Edition</model>
+		<price>39894</price>
+	</car>
+	<car>
+		<plate>014MPM</plate>
+		<year>2015</year>
+		<make>Infiniti</make>
+		<model>Q60 Concept</model>
+		<price>31729</price>
+	</car>
+	<car>
+		<plate>841MTN</plate>
+		<year>2002</year>
+		<make>Mazda</make>
+		<model>RX-7 Spirit R Type-A</model>
+		<price>16112</price>
+	</car>
+	<car>
+		<plate>847EXI</plate>
+		<year>1969</year>
+		<make>Ferrari</make>
+		<model>Dino 246 GT</model>
+		<price>36454</price>
+	</car>
+	<car>
+		<plate>996GAY</plate>
+		<year>1991</year>
+		<make>Hoonigan</make>
+		<model>Rauh-Welt Begriff Porsche 911 Turbo</model>
+		<price>19822</price>
+	</car>
+	<car>
+		<plate>719EMA</plate>
+		<year>2012</year>
+		<make>Jeep</make>
+		<model>Wrangler Rubicon</model>
+		<price>12336</price>
+	</car>
+	<car>
+		<plate>883EGW</plate>
+		<year>2014</year>
+		<make>Local Motors</make>
+		<model>Rally Fighter</model>
+		<price>36957</price>
+	</car>
+	<car>
+		<plate>722BQG</plate>
+		<year>1992</year>
+		<make>Hoonigan</make>
+		<model>Mazda RX-7 Twerkstallion</model>
+		<price>11440</price>
+	</car>
+	<car>
+		<plate>554FON</plate>
+		<year>2018</year>
+		<make>Jaguar</make>
+		<model>I-Pace</model>
+		<price>32428</price>
+	</car>
+	<car>
+		<plate>936ADR</plate>
+		<year>2020</year>
+		<make>BMW</make>
+		<model>M8 Competition Coupe</model>
+		<price>26018</price>
+	</car>
+	<car>
+		<plate>093YHS</plate>
+		<year>2012</year>
+		<make>Nissan</make>
+		<model>GT-R Black Edition (R35)</model>
+		<price>20138</price>
+	</car>
+	<car>
+		<plate>451AXI</plate>
+		<year>2010</year>
+		<make>Jaguar</make>
+		<model>C-X75</model>
+		<price>15654</price>
+	</car>
+	<car>
+		<plate>636PHV</plate>
+		<year>2011</year>
+		<make>Volkswagen</make>
+		<model>Scirocco R</model>
+		<price>5380</price>
+	</car>
+	<car>
+		<plate>556RBI</plate>
+		<year>2022</year>
+		<make>Extreme-E</make>
+		<model>#22 JBXE</model>
+		<price>16890</price>
+	</car>
+	<car>
+		<plate>226YHG</plate>
+		<year>2015</year>
+		<make>Dodge</make>
+		<model>Challenger SRT Hellcat</model>
+		<price>28746</price>
+	</car>
+	<car>
+		<plate>327PLB</plate>
+		<year>1988</year>
+		<make>Lamborghini</make>
+		<model>Countach LP5000 QV</model>
+		<price>25149</price>
+	</car>
+	<car>
+		<plate>481CPR</plate>
+		<year>2015</year>
+		<make>Land Rover</make>
+		<model>Range Rover Sport SVR</model>
+		<price>32553</price>
+	</car>
+	<car>
+		<plate>048SWB</plate>
+		<year>2007</year>
+		<make>Honda</make>
+		<model>Civic Type R</model>
+		<price>27629</price>
+	</car>
+	<car>
+		<plate>644FZX</plate>
+		<year>2005</year>
+		<make>Mazda</make>
+		<model>Mazdaspeed MX-5</model>
+		<price>37106</price>
+	</car>
+	<car>
+		<plate>016VZM</plate>
+		<year>2019</year>
+		<make>Ford</make>
+		<model>#2069 Ford Bronco R "Welcome Pack"</model>
+		<price>25833</price>
+	</car>
+	<car>
+		<plate>341VBU</plate>
+		<year>2008</year>
+		<make>Mitsubishi</make>
+		<model>Lancer Evolution X GSR "Welcome Pack"</model>
+		<price>31505</price>
+	</car>
+	<car>
+		<plate>892PGR</plate>
+		<year>1996</year>
+		<make>Chevrolet</make>
+		<model>Impala Super Sport</model>
+		<price>12015</price>
+	</car>
+	<car>
+		<plate>191FIL</plate>
+		<year>1969</year>
+		<make>Dodge</make>
+		<model>Charger Daytona HEMI</model>
+		<price>37205</price>
+	</car>
+	<car>
+		<plate>416PKD</plate>
+		<year>2020</year>
+		<make>Formula Drift</make>
+		<model>#151 Toyota GR Supra</model>
+		<price>29086</price>
+	</car>
+	<car>
+		<plate>396GSS</plate>
+		<year>2013</year>
+		<make>KTM</make>
+		<model>X-Bow R</model>
+		<price>28973</price>
+	</car>
+	<car>
+		<plate>648JDI</plate>
+		<year>1969</year>
+		<make>Hot Wheels</make>
+		<model>Twin Mill</model>
+		<price>1843</price>
+	</car>
+	<car>
+		<plate>183VCC</plate>
+		<year>2000</year>
+		<make>Hot Wheels</make>
+		<model>Deora II</model>
+		<price>40552</price>
+	</car>
+	<car>
+		<plate>901FUI</plate>
+		<year>1999</year>
+		<make>Dodge</make>
+		<model>Viper GTS ACR</model>
+		<price>21839</price>
+	</car>
+	<car>
+		<plate>566WLS</plate>
+		<year>2018</year>
+		<make>McLaren</make>
+		<model>600LT CoupÃ©</model>
+		<price>8948</price>
+	</car>
+	<car>
+		<plate>894RDK</plate>
+		<year>2017</year>
+		<make>Mercedes-AMG</make>
+		<model>GT R</model>
+		<price>39214</price>
+	</car>
+	<car>
+		<plate>769IMV</plate>
+		<year>2005</year>
+		<make>Honda</make>
+		<model>NSX-R GT</model>
+		<price>11615</price>
+	</car>
+	<car>
+		<plate>749DWG</plate>
+		<year>1958</year>
+		<make>Austin-Healey</make>
+		<model>Sprite MkI</model>
+		<price>3760</price>
+	</car>
+	<car>
+		<plate>370PBN</plate>
+		<year>2007</year>
+		<make>Honda</make>
+		<model>Civic Type R</model>
+		<price>21592</price>
+	</car>
+	<car>
+		<plate>623DLJ</plate>
+		<year>2022</year>
+		<make>Extreme-E</make>
+		<model>#125 ABT Cupra XE</model>
+		<price>19540</price>
+	</car>
+	<car>
+		<plate>923CRR</plate>
+		<year>2018</year>
+		<make>Audi</make>
+		<model>TT RS</model>
+		<price>38445</price>
+	</car>
+	<car>
+		<plate>129FFE</plate>
+		<year>2008</year>
+		<make>Mitsubishi</make>
+		<model>Lancer Evolution X GSR "Welcome Pack"</model>
+		<price>20663</price>
+	</car>
+	<car>
+		<plate>149IIF</plate>
+		<year>1994</year>
+		<make>Honda</make>
+		<model>Prelude Si</model>
+		<price>14606</price>
+	</car>
+	<car>
+		<plate>145LTJ</plate>
+		<year>2017</year>
+		<make>Ford</make>
+		<model>F-150 Raptor</model>
+		<price>12632</price>
+	</car>
+	<car>
+		<plate>519UQQ</plate>
+		<year>2012</year>
+		<make>Mercedes-Benz</make>
+		<model>SLK 55 AMG</model>
+		<price>9479</price>
+	</car>
+	<car>
+		<plate>249ROG</plate>
+		<year>2012</year>
+		<make>Ferrari</make>
+		<model>599XX Evolution</model>
+		<price>15958</price>
+	</car>
+	<car>
+		<plate>452XFU</plate>
+		<year>2003</year>
+		<make>Honda</make>
+		<model>S2000</model>
+		<price>16393</price>
+	</car>
+	<car>
+		<plate>302DYG</plate>
+		<year>1959</year>
+		<make>Ford</make>
+		<model>Anglia 105E</model>
+		<price>18159</price>
+	</car>
+	<car>
+		<plate>448RCJ</plate>
+		<year>1997</year>
+		<make>Lamborghini</make>
+		<model>Diablo SV</model>
+		<price>3873</price>
+	</car>
+	<car>
+		<plate>498HEU</plate>
+		<year>2015</year>
+		<make>Infiniti</make>
+		<model>Q60 Concept</model>
+		<price>27394</price>
+	</car>
+	<car>
+		<plate>723WLP</plate>
+		<year>2016</year>
+		<make>Porsche</make>
+		<model>Cayman GT4</model>
+		<price>30846</price>
+	</car>
+	<car>
+		<plate>643JFB</plate>
+		<year>1970</year>
+		<make>Chevrolet</make>
+		<model>Chevelle Super Sport 454</model>
+		<price>28237</price>
+	</car>
+	<car>
+		<plate>880HFT</plate>
+		<year>2018</year>
+		<make>Chevrolet</make>
+		<model>Hot Wheels COPO Camaro</model>
+		<price>2606</price>
+	</car>
+	<car>
+		<plate>240JHR</plate>
+		<year>2014</year>
+		<make>Porsche</make>
+		<model>918 Spyder</model>
+		<price>27374</price>
+	</car>
+	<car>
+		<plate>098PTJ</plate>
+		<year>1992</year>
+		<make>Ferrari</make>
+		<model>512 TR</model>
+		<price>36513</price>
+	</car>
+	<car>
+		<plate>206RZV</plate>
+		<year>2012</year>
+		<make>Mercedes-Benz</make>
+		<model>SLK 55 AMG</model>
+		<price>22629</price>
+	</car>
+	<car>
+		<plate>927CGE</plate>
+		<year>2016</year>
+		<make>Porsche</make>
+		<model>911 GT3 RS</model>
+		<price>3939</price>
+	</car>
+	<car>
+		<plate>221FYW</plate>
+		<year>1979</year>
+		<make>Toyota</make>
+		<model>FJ40</model>
+		<price>28431</price>
+	</car>
+	<car>
+		<plate>885OIS</plate>
+		<year>1992</year>
+		<make>Nissan</make>
+		<model>Silvia CLUB K's</model>
+		<price>28453</price>
+	</car>
+	<car>
+		<plate>399JPE</plate>
+		<year>1979</year>
+		<make>Toyota</make>
+		<model>FJ40</model>
+		<price>23788</price>
+	</car>
+	<car>
+		<plate>551KUI</plate>
+		<year>2016</year>
+		<make>Cadillac</make>
+		<model>CTS-V Sedan</model>
+		<price>34228</price>
+	</car>
+	<car>
+		<plate>526VMS</plate>
+		<year>1945</year>
+		<make>Willys</make>
+		<model>MB Jeep</model>
+		<price>25113</price>
+	</car>
+	<car>
+		<plate>523VOZ</plate>
+		<year>1963</year>
+		<make>Volkswagen</make>
+		<model>Beetle</model>
+		<price>4351</price>
+	</car>
+	<car>
+		<plate>987UDY</plate>
+		<year>2019</year>
+		<make>Porsche</make>
+		<model>911 Speedster</model>
+		<price>37205</price>
+	</car>
+	<car>
+		<plate>013HWO</plate>
+		<year>2015</year>
+		<make>Jaguar</make>
+		<model>XKR-S GT</model>
+		<price>24980</price>
+	</car>
+	<car>
+		<plate>151MQD</plate>
+		<year>2012</year>
+		<make>BMW</make>
+		<model>M5</model>
+		<price>1023</price>
+	</car>
+	<car>
+		<plate>523ICP</plate>
+		<year>2021</year>
+		<make>Sierra Cars</make>
+		<model>RX3</model>
+		<price>33315</price>
+	</car>
+	<car>
+		<plate>038ESX</plate>
+		<year>1995</year>
+		<make>Ferrari</make>
+		<model>F50</model>
+		<price>15253</price>
+	</car>
+	<car>
+		<plate>876BHJ</plate>
+		<year>1998</year>
+		<make>Mercedes-Benz</make>
+		<model>AMG CLK GTR</model>
+		<price>25144</price>
+	</car>
+	<car>
+		<plate>352PLB</plate>
+		<year>1963</year>
+		<make>Volkswagen</make>
+		<model>Beetle</model>
+		<price>15798</price>
+	</car>
+	<car>
+		<plate>934LRK</plate>
+		<year>1977</year>
+		<make>Ford</make>
+		<model>#5 Escort RS1800 MKII</model>
+		<price>32708</price>
+	</car>
+	<car>
+		<plate>140WCX</plate>
+		<year>2011</year>
+		<make>BMW</make>
+		<model>X5 M</model>
+		<price>40928</price>
+	</car>
+	<car>
+		<plate>190QMR</plate>
+		<year>1977</year>
+		<make>Ford</make>
+		<model>Escort RS1800</model>
+		<price>14228</price>
+	</car>
+	<car>
+		<plate>843MSB</plate>
+		<year>2018</year>
+		<make>ATS</make>
+		<model>GT</model>
+		<price>8306</price>
+	</car>
+	<car>
+		<plate>780KAS</plate>
+		<year>2008</year>
+		<make>Renault</make>
+		<model>MÃ©gane R26.R</model>
+		<price>16599</price>
+	</car>
+	<car>
+		<plate>010EVW</plate>
+		<year>2013</year>
+		<make>Mercedes-Benz</make>
+		<model>G 65 AMG</model>
+		<price>36842</price>
+	</car>
+	<car>
+		<plate>057RTQ</plate>
+		<year>1962</year>
+		<make>Ferrari</make>
+		<model>250 GT Berlinetta Lusso</model>
+		<price>3483</price>
+	</car>
+	<car>
+		<plate>482YPK</plate>
+		<year>1998</year>
+		<make>Volkswagen</make>
+		<model>GTI VR6 Mk3</model>
+		<price>3302</price>
+	</car>
+	<car>
+		<plate>801MAM</plate>
+		<year>2013</year>
+		<make>Subaru</make>
+		<model>BRZ</model>
+		<price>37776</price>
+	</car>
+	<car>
+		<plate>390PJB</plate>
+		<year>1983</year>
+		<make>Audi</make>
+		<model>Sport Quattro</model>
+		<price>39526</price>
+	</car>
+	<car>
+		<plate>305TTX</plate>
+		<year>1982</year>
+		<make>DeLorean</make>
+		<model>DMC-12</model>
+		<price>6850</price>
+	</car>
+	<car>
+		<plate>332VZF</plate>
+		<year>2014</year>
+		<make>Ford</make>
+		<model>Fiesta ST</model>
+		<price>5255</price>
+	</car>
+	<car>
+		<plate>939NKB</plate>
+		<year>2018</year>
+		<make>Porsche</make>
+		<model>Macan Rally Raid</model>
+		<price>5026</price>
+	</car>
+	<car>
+		<plate>852PKN</plate>
+		<year>2019</year>
+		<make>Ford</make>
+		<model>Ranger Raptor</model>
+		<price>10057</price>
+	</car>
+	<car>
+		<plate>834CXT</plate>
+		<year>1965</year>
+		<make>Ford</make>
+		<model>Mustang GT Coupe</model>
+		<price>34557</price>
+	</car>
+	<car>
+		<plate>214LZA</plate>
+		<year>1992</year>
+		<make>Bugatti</make>
+		<model>EB110 Super Sport</model>
+		<price>11977</price>
+	</car>
+	<car>
+		<plate>968CGR</plate>
+		<year>2022</year>
+		<make>Extreme-E</make>
+		<model>#23 Genesys Andretti United</model>
+		<price>15746</price>
+	</car>
+	<car>
+		<plate>494DJK</plate>
+		<year>2017</year>
+		<make>Bentley</make>
+		<model>Continental Supersports</model>
+		<price>13510</price>
+	</car>
+	<car>
+		<plate>907DHN</plate>
+		<year>2015</year>
+		<make>BMW</make>
+		<model>X6 M</model>
+		<price>40255</price>
+	</car>
+	<car>
+		<plate>880OVV</plate>
+		<year>1969</year>
+		<make>Chevrolet</make>
+		<model>Camaro Super Sport Coupe</model>
+		<price>10015</price>
+	</car>
+	<car>
+		<plate>997VZJ</plate>
+		<year>2009</year>
+		<make>Ferrari</make>
+		<model>458 Italia</model>
+		<price>18403</price>
+	</car>
+	<car>
+		<plate>351NQU</plate>
+		<year>2018</year>
+		<make>Mercedes-Benz</make>
+		<model>X-Class</model>
+		<price>40146</price>
+	</car>
+	<car>
+		<plate>070SNZ</plate>
+		<year>1979</year>
+		<make>Toyota</make>
+		<model>FJ40</model>
+		<price>28797</price>
+	</car>
+	<car>
+		<plate>350DEJ</plate>
+		<year>2020</year>
+		<make>Sierra Cars</make>
+		<model>#23 Yokohama Alpha</model>
+		<price>38910</price>
+	</car>
+	<car>
+		<plate>769CQV</plate>
+		<year>1930</year>
+		<make>Bentley</make>
+		<model>8 Litre</model>
+		<price>26683</price>
+	</car>
+	<car>
+		<plate>707OXI</plate>
+		<year>2018</year>
+		<make>Formula Drift</make>
+		<model>#64 Nissan 370Z</model>
+		<price>39201</price>
+	</car>
+	<car>
+		<plate>859GQV</plate>
+		<year>2019</year>
+		<make>Porsche</make>
+		<model>911 Speedster</model>
+		<price>15787</price>
+	</car>
+	<car>
+		<plate>266COW</plate>
+		<year>1959</year>
+		<make>Ford</make>
+		<model>Anglia 105E</model>
+		<price>22618</price>
+	</car>
+	<car>
+		<plate>042KIY</plate>
+		<year>2005</year>
+		<make>Ford</make>
+		<model>Mustang</model>
+		<price>27132</price>
+	</car>
+	<car>
+		<plate>464WYH</plate>
+		<year>1974</year>
+		<make>Honda</make>
+		<model>Civic RS</model>
+		<price>37927</price>
+	</car>
+	<car>
+		<plate>305HUF</plate>
+		<year>2010</year>
+		<make>Porsche</make>
+		<model>911 Sport Classic</model>
+		<price>27900</price>
+	</car>
+	<car>
+		<plate>516IGH</plate>
+		<year>1969</year>
+		<make>Dodge</make>
+		<model>Charger R/T</model>
+		<price>18982</price>
+	</car>
+	<car>
+		<plate>270LYX</plate>
+		<year>1964</year>
+		<make>Aston Martin</make>
+		<model>DB5</model>
+		<price>20250</price>
+	</car>
+	<car>
+		<plate>295PUK</plate>
+		<year>1986</year>
+		<make>Ford</make>
+		<model>Mustang SVO</model>
+		<price>40535</price>
+	</car>
+	<car>
+		<plate>584ECP</plate>
+		<year>2013</year>
+		<make>Aston Martin</make>
+		<model>V12 Vantage S</model>
+		<price>20261</price>
+	</car>
+	<car>
+		<plate>353LGJ</plate>
+		<year>1995</year>
+		<make>Formula Drift</make>
+		<model>#34 Toyota Supra MkIV</model>
+		<price>18135</price>
+	</car>
+	<car>
+		<plate>163ZGY</plate>
+		<year>2010</year>
+		<make>Nissan</make>
+		<model>370Z</model>
+		<price>24266</price>
+	</car>
+	<car>
+		<plate>298TJF</plate>
+		<year>2005</year>
+		<make>Ford</make>
+		<model>GT</model>
+		<price>1574</price>
+	</car>
+	<car>
+		<plate>086TRN</plate>
+		<year>1977</year>
+		<make>Holden</make>
+		<model>Torana A9X</model>
+		<price>20121</price>
+	</car>
+	<car>
+		<plate>835NAI</plate>
+		<year>1997</year>
+		<make>Volvo</make>
+		<model>850 R</model>
+		<price>2593</price>
+	</car>
+	<car>
+		<plate>501UZR</plate>
+		<year>1991</year>
+		<make>Hoonigan</make>
+		<model>Rauh-Welt Begriff Porsche 911 Turbo</model>
+		<price>37760</price>
+	</car>
+	<car>
+		<plate>965MOG</plate>
+		<year>1991</year>
+		<make>Hoonigan</make>
+		<model>Rauh-Welt Begriff Porsche 911 Turbo</model>
+		<price>19079</price>
+	</car>
+	<car>
+		<plate>612WFG</plate>
+		<year>2001</year>
+		<make>Audi</make>
+		<model>RS 4 Avant</model>
+		<price>34894</price>
+	</car>
+	<car>
+		<plate>358SLH</plate>
+		<year>1945</year>
+		<make>Willys</make>
+		<model>MB Jeep</model>
+		<price>39927</price>
+	</car>
+	<car>
+		<plate>571JIP</plate>
+		<year>2019</year>
+		<make>Nissan</make>
+		<model>370Z Nismo</model>
+		<price>23088</price>
+	</car>
+	<car>
+		<plate>781WCO</plate>
+		<year>2016</year>
+		<make>Vauxhall</make>
+		<model>Corsa VXR</model>
+		<price>5807</price>
+	</car>
+	<car>
+		<plate>098RXY</plate>
+		<year>2012</year>
+		<make>Lamborghini</make>
+		<model>Aventador LP700-4</model>
+		<price>40950</price>
+	</car>
+	<car>
+		<plate>339BZK</plate>
+		<year>1971</year>
+		<make>Lotus</make>
+		<model>Elan Sprint</model>
+		<price>18894</price>
+	</car>
+	<car>
+		<plate>719VAR</plate>
+		<year>2013</year>
+		<make>Ford</make>
+		<model>Shelby GT500</model>
+		<price>8781</price>
+	</car>
+	<car>
+		<plate>714HUM</plate>
+		<year>1969</year>
+		<make>Hot Wheels</make>
+		<model>Twin Mill</model>
+		<price>27666</price>
+	</car>
+	<car>
+		<plate>426ATW</plate>
+		<year>1985</year>
+		<make>Ford</make>
+		<model>RS200 Evolution</model>
+		<price>9605</price>
+	</car>
+	<car>
+		<plate>830QPA</plate>
+		<year>1975</year>
+		<make>Forsberg Racing</make>
+		<model>Nissan "Gold Legend" Datsun 280Z</model>
+		<price>14617</price>
+	</car>
+	<car>
+		<plate>187QSX</plate>
+		<year>1965</year>
+		<make>Ford</make>
+		<model>F-100</model>
+		<price>38156</price>
+	</car>
+	<car>
+		<plate>758SFQ</plate>
+		<year>2017</year>
+		<make>Chevrolet</make>
+		<model>Camaro ZL1</model>
+		<price>25507</price>
+	</car>
+	<car>
+		<plate>885LLB</plate>
+		<year>2019</year>
+		<make>Toyota</make>
+		<model>Tacoma TRD Pro</model>
+		<price>28336</price>
+	</car>
+	<car>
+		<plate>600KJL</plate>
+		<year>2018</year>
+		<make>Renault</make>
+		<model>Megane R.S.</model>
+		<price>24398</price>
+	</car>
+	<car>
+		<plate>598GVK</plate>
+		<year>2016</year>
+		<make>Nissan</make>
+		<model>TITAN Warrior Concept</model>
+		<price>22304</price>
+	</car>
+	<car>
+		<plate>264XIQ</plate>
+		<year>1995</year>
+		<make>Porsche</make>
+		<model>911 GT2</model>
+		<price>7767</price>
+	</car>
+	<car>
+		<plate>241OEF</plate>
+		<year>2021</year>
+		<make>McLaren</make>
+		<model>765LT Coupe</model>
+		<price>26475</price>
+	</car>
+	<car>
+		<plate>871JBO</plate>
+		<year>2017</year>
+		<make>Ford</make>
+		<model>#14 Rahal Letterman Lanigan Racing GRC Fiesta</model>
+		<price>23519</price>
+	</car>
+	<car>
+		<plate>180FRI</plate>
+		<year>1960</year>
+		<make>Chevrolet</make>
+		<model>Corvette</model>
+		<price>6591</price>
+	</car>
+	<car>
+		<plate>068ZHV</plate>
+		<year>1967</year>
+		<make>Chevrolet</make>
+		<model>Corvette Stingray 427</model>
+		<price>37538</price>
+	</car>
+	<car>
+		<plate>472LBO</plate>
+		<year>2010</year>
+		<make>Maserati</make>
+		<model>Gran Turismo S Forza Edition</model>
+		<price>7082</price>
+	</car>
+	<car>
+		<plate>669HGO</plate>
+		<year>1968</year>
+		<make>Dodge</make>
+		<model>Dart HEMI Super Stock</model>
+		<price>35328</price>
+	</car>
+	<car>
+		<plate>277PPU</plate>
+		<year>2020</year>
+		<make>Formula Drift</make>
+		<model>#151 Toyota GR Supra</model>
+		<price>28826</price>
+	</car>
+	<car>
+		<plate>252MXW</plate>
+		<year>1987</year>
+		<make>Buick</make>
+		<model>Regal GNX</model>
+		<price>39415</price>
+	</car>
+	<car>
+		<plate>974EAF</plate>
+		<year>2019</year>
+		<make>McLaren</make>
+		<model>720S Spider</model>
+		<price>14112</price>
+	</car>
+	<car>
+		<plate>418CML</plate>
+		<year>1969</year>
+		<make>Lola</make>
+		<model>#6 Penske Sunoco T70 MkIIIB</model>
+		<price>26726</price>
+	</car>
+	<car>
+		<plate>546RID</plate>
+		<year>2005</year>
+		<make>TVR</make>
+		<model>Sagaris</model>
+		<price>34600</price>
+	</car>
+	<car>
+		<plate>568WPQ</plate>
+		<year>2014</year>
+		<make>Local Motors</make>
+		<model>Rally Fighter</model>
+		<price>15371</price>
+	</car>
+	<car>
+		<plate>584FRH</plate>
+		<year>1995</year>
+		<make>Ferrari</make>
+		<model>F50</model>
+		<price>38594</price>
+	</car>
+	<car>
+		<plate>298VSI</plate>
+		<year>1986</year>
+		<make>MG</make>
+		<model>Metro 6R4</model>
+		<price>10757</price>
+	</car>
+	<car>
+		<plate>497SEX</plate>
+		<year>1999</year>
+		<make>Ford</make>
+		<model>Racing Puma</model>
+		<price>2395</price>
+	</car>
+	<car>
+		<plate>093QDH</plate>
+		<year>1969</year>
+		<make>Chevrolet</make>
+		<model>Nova Super Sport 396</model>
+		<price>40402</price>
+	</car>
+	<car>
+		<plate>093AIZ</plate>
+		<year>1990</year>
+		<make>Porsche</make>
+		<model>911 reimagined by Singer - DLS</model>
+		<price>16451</price>
+	</car>
+	<car>
+		<plate>860EYL</plate>
+		<year>2014</year>
+		<make>BMW</make>
+		<model>M4 CoupÃ©</model>
+		<price>18129</price>
+	</car>
+	<car>
+		<plate>826WSM</plate>
+		<year>1971</year>
+		<make>Porsche</make>
+		<model>#23 917/20</model>
+		<price>24104</price>
+	</car>
+	<car>
+		<plate>006IKV</plate>
+		<year>1986</year>
+		<make>Ford</make>
+		<model>Escort RS Turbo</model>
+		<price>34495</price>
+	</car>
+	<car>
+		<plate>074SVD</plate>
+		<year>2012</year>
+		<make>Hot Wheels</make>
+		<model>Bad To The Blade</model>
+		<price>16152</price>
+	</car>
+	<car>
+		<plate>601OJE</plate>
+		<year>2018</year>
+		<make>Ford</make>
+		<model>Mustang RTR Spec 5</model>
+		<price>6781</price>
+	</car>
+	<car>
+		<plate>008CCB</plate>
+		<year>2018</year>
+		<make>Audi</make>
+		<model>RS 4 Avant</model>
+		<price>9922</price>
+	</car>
+	<car>
+		<plate>184DOV</plate>
+		<year>1973</year>
+		<make>Land Rover</make>
+		<model>Range Rover</model>
+		<price>1671</price>
+	</car>
+	<car>
+		<plate>701LCZ</plate>
+		<year>1969</year>
+		<make>Hot Wheels</make>
+		<model>Twin Mill</model>
+		<price>23541</price>
+	</car>
+	<car>
+		<plate>627ISW</plate>
+		<year>2018</year>
+		<make>Bugatti</make>
+		<model>Chiron</model>
+		<price>18622</price>
+	</car>
+	<car>
+		<plate>219QRB</plate>
+		<year>1967</year>
+		<make>Lamborghini</make>
+		<model>Miura P400</model>
+		<price>21214</price>
+	</car>
+	<car>
+		<plate>069GRC</plate>
+		<year>2017</year>
+		<make>Maserati</make>
+		<model>Levante S</model>
+		<price>8862</price>
+	</car>
+	<car>
+		<plate>382UWY</plate>
+		<year>1997</year>
+		<make>Mitsubishi</make>
+		<model>GTO</model>
+		<price>40141</price>
+	</car>
+	<car>
+		<plate>150OJU</plate>
+		<year>1997</year>
+		<make>McLaren</make>
+		<model>F1 GT</model>
+		<price>12423</price>
+	</car>
+	<car>
+		<plate>797ZVY</plate>
+		<year>2016</year>
+		<make>Audi</make>
+		<model>R8 V10 plus</model>
+		<price>24240</price>
+	</car>
+	<car>
+		<plate>748ZYT</plate>
+		<year>2020</year>
+		<make>Toyota</make>
+		<model>GR Supra</model>
+		<price>28343</price>
+	</car>
+	<car>
+		<plate>917XJD</plate>
+		<year>2018</year>
+		<make>DeBerti</make>
+		<model>Chevrolet Silverado 1500 Drift Truck</model>
+		<price>40405</price>
+	</car>
+	<car>
+		<plate>568SJD</plate>
+		<year>2011</year>
+		<make>BMW</make>
+		<model>X5 M</model>
+		<price>23885</price>
+	</car>
+	<car>
+		<plate>013PUF</plate>
+		<year>1984</year>
+		<make>Peugeot</make>
+		<model>205 T16</model>
+		<price>35500</price>
+	</car>
+	<car>
+		<plate>640GOW</plate>
+		<year>2020</year>
+		<make>Toyota</make>
+		<model>Tundra TRD Pro</model>
+		<price>21767</price>
+	</car>
+	<car>
+		<plate>785RIM</plate>
+		<year>1973</year>
+		<make>Holden</make>
+		<model>HQ Monaro GTS 350</model>
+		<price>2433</price>
+	</car>
+	<car>
+		<plate>663AHJ</plate>
+		<year>1993</year>
+		<make>Ford</make>
+		<model>SVT Cobra R</model>
+		<price>23748</price>
+	</car>
+	<car>
+		<plate>939TFZ</plate>
+		<year>2011</year>
+		<make>Lamborghini</make>
+		<model>Sesto Elemento</model>
+		<price>33349</price>
+	</car>
+	<car>
+		<plate>727NXJ</plate>
+		<year>2016</year>
+		<make>Aston Martin</make>
+		<model>Vantage GT12</model>
+		<price>29634</price>
+	</car>
+	<car>
+		<plate>965SIV</plate>
+		<year>2005</year>
+		<make>Ferrari</make>
+		<model>FXX</model>
+		<price>19525</price>
+	</car>
+	<car>
+		<plate>916UQE</plate>
+		<year>2003</year>
+		<make>Ferrari</make>
+		<model>360 Challenge Stradale</model>
+		<price>37535</price>
+	</car>
+	<car>
+		<plate>233RQS</plate>
+		<year>1973</year>
+		<make>AMC</make>
+		<model>Gremlin X</model>
+		<price>13935</price>
+	</car>
+	<car>
+		<plate>633CSS</plate>
+		<year>2017</year>
+		<make>Aston Martin</make>
+		<model>DB11</model>
+		<price>33179</price>
+	</car>
+	<car>
+		<plate>114ISA</plate>
+		<year>1991</year>
+		<make>Hoonigan</make>
+		<model>Rauh-Welt Begriff Porsche 911 Turbo</model>
+		<price>1556</price>
+	</car>
+	<car>
+		<plate>533INQ</plate>
+		<year>1958</year>
+		<make>Morris</make>
+		<model>Minor 1000 Forza Edition</model>
+		<price>25236</price>
+	</car>
+	<car>
+		<plate>956BAG</plate>
+		<year>2019</year>
+		<make>DeBerti</make>
+		<model>Toyota Tacoma TRD "The Performance Truck"</model>
+		<price>31648</price>
+	</car>
+	<car>
+		<plate>264TAQ</plate>
+		<year>2015</year>
+		<make>Chevrolet</make>
+		<model>Corvette Z06</model>
+		<price>25351</price>
+	</car>
+	<car>
+		<plate>738FPP</plate>
+		<year>1982</year>
+		<make>DeLorean</make>
+		<model>DMC-12</model>
+		<price>20706</price>
+	</car>
+	<car>
+		<plate>849MLP</plate>
+		<year>1957</year>
+		<make>Chevrolet</make>
+		<model>Bel Air</model>
+		<price>40724</price>
+	</car>
+	<car>
+		<plate>674VDG</plate>
+		<year>2011</year>
+		<make>Lamborghini</make>
+		<model>Sesto Elemento</model>
+		<price>12938</price>
+	</car>
+	<car>
+		<plate>196IWQ</plate>
+		<year>2005</year>
+		<make>Ferrari</make>
+		<model>FXX</model>
+		<price>39738</price>
+	</car>
+	<car>
+		<plate>077EYY</plate>
+		<year>2011</year>
+		<make>Penhall</make>
+		<model>The Cholla</model>
+		<price>39845</price>
+	</car>
+	<car>
+		<plate>568QSX</plate>
+		<year>1997</year>
+		<make>Volvo</make>
+		<model>850 R</model>
+		<price>5718</price>
+	</car>
+	<car>
+		<plate>873NWJ</plate>
+		<year>2015</year>
+		<make>Alumi</make>
+		<model>Craft Class 10 Race Car</model>
+		<price>1954</price>
+	</car>
+	<car>
+		<plate>708DRX</plate>
+		<year>1969</year>
+		<make>Lola</make>
+		<model>#6 Penske Sunoco T70 MkIIIB</model>
+		<price>10343</price>
+	</car>
+	<car>
+		<plate>407YZY</plate>
+		<year>1996</year>
+		<make>Ferrari</make>
+		<model>F50 GT</model>
+		<price>27151</price>
+	</car>
+	<car>
+		<plate>420CPV</plate>
+		<year>2017</year>
+		<make>Ford</make>
+		<model>GT</model>
+		<price>14412</price>
+	</car>
+	<car>
+		<plate>363LMZ</plate>
+		<year>2015</year>
+		<make>McLaren</make>
+		<model>570S CoupÃ©</model>
+		<price>15899</price>
+	</car>
+	<car>
+		<plate>401YQS</plate>
+		<year>2007</year>
+		<make>Formula Drift</make>
+		<model>#117 599 GTB Fiorano</model>
+		<price>32963</price>
+	</car>
+	<car>
+		<plate>500FRU</plate>
+		<year>1960</year>
+		<make>Chevrolet</make>
+		<model>Corvette</model>
+		<price>27732</price>
+	</car>
+	<car>
+		<plate>482JUH</plate>
+		<year>2015</year>
+		<make>Formula Drift</make>
+		<model>#13 Ford Mustang</model>
+		<price>8875</price>
+	</car>
+	<car>
+		<plate>103HRR</plate>
+		<year>1966</year>
+		<make>Jaguar</make>
+		<model>XJ13</model>
+		<price>33962</price>
+	</car>
+	<car>
+		<plate>827UKZ</plate>
+		<year>2015</year>
+		<make>Chevrolet</make>
+		<model>Camaro Z/28</model>
+		<price>39169</price>
+	</car>
+	<car>
+		<plate>715NNG</plate>
+		<year>2019</year>
+		<make>Porsche</make>
+		<model>911 GT3 RS</model>
+		<price>3498</price>
+	</car>
+	<car>
+		<plate>900ITQ</plate>
+		<year>2003</year>
+		<make>Nissan</make>
+		<model>Fairlady Z Forza Edition</model>
+		<price>3494</price>
+	</car>
+	<car>
+		<plate>415TSO</plate>
+		<year>1954</year>
+		<make>Mercedes-Benz</make>
+		<model>300 SL CoupÃ©</model>
+		<price>3395</price>
+	</car>
+	<car>
+		<plate>282OHA</plate>
+		<year>2005</year>
+		<make>Ford</make>
+		<model>GT</model>
+		<price>28375</price>
+	</car>
+	<car>
+		<plate>012ZBA</plate>
+		<year>1968</year>
+		<make>Plymouth</make>
+		<model>Barracuda Formula-S</model>
+		<price>40835</price>
+	</car>
+	<car>
+		<plate>018ZSP</plate>
+		<year>1987</year>
+		<make>Buick</make>
+		<model>Regal GNX</model>
+		<price>3698</price>
+	</car>
+	<car>
+		<plate>995HMW</plate>
+		<year>2020</year>
+		<make>Lexus</make>
+		<model>RC F Track Edition</model>
+		<price>11737</price>
+	</car>
+	<car>
+		<plate>820WQX</plate>
+		<year>2015</year>
+		<make>Formula Drift</make>
+		<model>#13 Ford Mustang</model>
+		<price>3318</price>
+	</car>
+	<car>
+		<plate>371CHH</plate>
+		<year>2019</year>
+		<make>Brabham</make>
+		<model>BT62</model>
+		<price>39251</price>
+	</car>
+	<car>
+		<plate>460DWM</plate>
+		<year>1986</year>
+		<make>Ford</make>
+		<model>Mustang SVO</model>
+		<price>15491</price>
+	</car>
+	<car>
+		<plate>850DIT</plate>
+		<year>2011</year>
+		<make>Lamborghini</make>
+		<model>Sesto Elemento</model>
+		<price>10785</price>
+	</car>
+	<car>
+		<plate>221PIZ</plate>
+		<year>2016</year>
+		<make>Jeep</make>
+		<model>Trailcat</model>
+		<price>1877</price>
+	</car>
+	<car>
+		<plate>441EMA</plate>
+		<year>1965</year>
+		<make>Pontiac</make>
+		<model>GTO</model>
+		<price>33360</price>
+	</car>
+	<car>
+		<plate>758JCM</plate>
+		<year>1988</year>
+		<make>Lamborghini</make>
+		<model>Countach LP5000 QV</model>
+		<price>14924</price>
+	</car>
+	<car>
+		<plate>400HVK</plate>
+		<year>2019</year>
+		<make>Hyundai</make>
+		<model>Veloster N</model>
+		<price>33998</price>
+	</car>
+	<car>
+		<plate>218BTB</plate>
+		<year>2013</year>
+		<make>KTM</make>
+		<model>X-Bow R</model>
+		<price>3110</price>
+	</car>
+	<car>
+		<plate>842WAM</plate>
+		<year>1977</year>
+		<make>Pontiac</make>
+		<model>Firebird Trans Am</model>
+		<price>24876</price>
+	</car>
+	<car>
+		<plate>545BDB</plate>
+		<year>1992</year>
+		<make>Hoonigan</make>
+		<model>Mazda RX-7 Twerkstallion</model>
+		<price>33666</price>
+	</car>
+	<car>
+		<plate>469PPQ</plate>
+		<year>2003</year>
+		<make>BMW</make>
+		<model>M5</model>
+		<price>5654</price>
+	</car>
+	<car>
+		<plate>003YNK</plate>
+		<year>1971</year>
+		<make>Plymouth</make>
+		<model>Cuda 426 HEMI</model>
+		<price>13406</price>
+	</car>
+	<car>
+		<plate>675LEF</plate>
+		<year>1994</year>
+		<make>Hoonigan</make>
+		<model>Ford Escort Cosworth WRC "Cossie V2"</model>
+		<price>40667</price>
+	</car>
+	<car>
+		<plate>352AMF</plate>
+		<year>2019</year>
+		<make>BMW</make>
+		<model>Z4</model>
+		<price>4505</price>
+	</car>
+	<car>
+		<plate>288OFX</plate>
+		<year>2015</year>
+		<make>Ferrari</make>
+		<model>488 GTB</model>
+		<price>39787</price>
+	</car>
+	<car>
+		<plate>415LTM</plate>
+		<year>2010</year>
+		<make>Noble</make>
+		<model>M600</model>
+		<price>34032</price>
+	</car>
+	<car>
+		<plate>544BTV</plate>
+		<year>2015</year>
+		<make>MG</make>
+		<model>MG3</model>
+		<price>9875</price>
+	</car>
+	<car>
+		<plate>679QCU</plate>
+		<year>2018</year>
+		<make>Ferrari</make>
+		<model>FXX-K Evo</model>
+		<price>35780</price>
+	</car>
+	<car>
+		<plate>403IHE</plate>
+		<year>1994</year>
+		<make>Mazda</make>
+		<model>MX-5 Miata</model>
+		<price>39937</price>
+	</car>
+	<car>
+		<plate>586SBT</plate>
+		<year>2002</year>
+		<make>Ferrari</make>
+		<model>Enzo Ferrari</model>
+		<price>5138</price>
+	</car>
+	<car>
+		<plate>131ZFH</plate>
+		<year>2000</year>
+		<make>Nissan</make>
+		<model>Silvia Spec-R</model>
+		<price>23558</price>
+	</car>
+	<car>
+		<plate>250RMO</plate>
+		<year>2014</year>
+		<make>BMW</make>
+		<model>M4 CoupÃ©</model>
+		<price>12920</price>
+	</car>
+	<car>
+		<plate>188QJX</plate>
+		<year>2019</year>
+		<make>Ford</make>
+		<model>Ranger Raptor</model>
+		<price>6926</price>
+	</car>
+	<car>
+		<plate>526WCT</plate>
+		<year>1957</year>
+		<make>Chevrolet</make>
+		<model>Bel Air</model>
+		<price>38581</price>
+	</car>
+	<car>
+		<plate>323RTW</plate>
+		<year>2014</year>
+		<make>Jeep</make>
+		<model>Grand Cherokee SRT</model>
+		<price>38824</price>
+	</car>
+	<car>
+		<plate>013HIX</plate>
+		<year>2002</year>
+		<make>Koenigsegg</make>
+		<model>CC8S</model>
+		<price>25385</price>
+	</car>
+	<car>
+		<plate>350NJX</plate>
+		<year>2011</year>
+		<make>Mercedes-Benz</make>
+		<model>SLS AMG</model>
+		<price>40132</price>
+	</car>
+	<car>
+		<plate>053NHK</plate>
+		<year>2017</year>
+		<make>VUHL</make>
+		<model>05RR</model>
+		<price>34256</price>
+	</car>
+	<car>
+		<plate>980IEG</plate>
+		<year>2019</year>
+		<make>Aston Martin</make>
+		<model>DBS Superleggera</model>
+		<price>16302</price>
+	</car>
+	<car>
+		<plate>782EHU</plate>
+		<year>2008</year>
+		<make>Dodge</make>
+		<model>Magnum SRT-8</model>
+		<price>40586</price>
+	</car>
+	<car>
+		<plate>281JRZ</plate>
+		<year>2015</year>
+		<make>Porsche</make>
+		<model>Cayman GTS</model>
+		<price>3159</price>
+	</car>
+	<car>
+		<plate>457VUK</plate>
+		<year>2022</year>
+		<make>Extreme-E</make>
+		<model>#22 JBXE</model>
+		<price>3605</price>
+	</car>
+	<car>
+		<plate>266IPG</plate>
+		<year>2019</year>
+		<make>Lamborghini</make>
+		<model>Urus</model>
+		<price>11276</price>
+	</car>
+	<car>
+		<plate>748EUS</plate>
+		<year>1969</year>
+		<make>Volkswagen</make>
+		<model>Class 5/1600 Baja Bug</model>
+		<price>25104</price>
+	</car>
+	<car>
+		<plate>051TSL</plate>
+		<year>1972</year>
+		<make>Hoonigan</make>
+		<model>Chevrolet Napalm Nova</model>
+		<price>6652</price>
+	</car>
+	<car>
+		<plate>577GIE</plate>
+		<year>2020</year>
+		<make>Chevrolet</make>
+		<model>Corvette Stingray CoupÃ©</model>
+		<price>34745</price>
+	</car>
+	<car>
+		<plate>123IXW</plate>
+		<year>1973</year>
+		<make>Ford</make>
+		<model>Escort RS1600</model>
+		<price>32758</price>
+	</car>
+	<car>
+		<plate>779RUT</plate>
+		<year>2013</year>
+		<make>Mercedes-Benz</make>
+		<model>E 63 AMG</model>
+		<price>40174</price>
+	</car>
+	<car>
+		<plate>788AAO</plate>
+		<year>1998</year>
+		<make>Mercedes-Benz</make>
+		<model>AMG CLK GTR Forza Edition</model>
+		<price>35495</price>
+	</car>
+	<car>
+		<plate>440EWM</plate>
+		<year>1971</year>
+		<make>Porsche</make>
+		<model>#23 917/20</model>
+		<price>8431</price>
+	</car>
+	<car>
+		<plate>625KJU</plate>
+		<year>2014</year>
+		<make>Ford</make>
+		<model>#11 Rockstar F-150 Trophy Truck</model>
+		<price>5151</price>
+	</car>
+	<car>
+		<plate>901NCQ</plate>
+		<year>2019</year>
+		<make>Rimac</make>
+		<model>Concept Two</model>
+		<price>27994</price>
+	</car>
+	<car>
+		<plate>429GGM</plate>
+		<year>2015</year>
+		<make>McLaren</make>
+		<model>650S CoupÃ©</model>
+		<price>33164</price>
+	</car>
+	<car>
+		<plate>320HXZ</plate>
+		<year>2018</year>
+		<make>Exomotive</make>
+		<model>Exocet Off-Road Forza Edition</model>
+		<price>39276</price>
+	</car>
+	<car>
+		<plate>497COI</plate>
+		<year>1968</year>
+		<make>Plymouth</make>
+		<model>Barracuda Formula-S</model>
+		<price>21628</price>
+	</car>
+	<car>
+		<plate>291AEU</plate>
+		<year>1970</year>
+		<make>International</make>
+		<model>Scout 800A</model>
+		<price>30662</price>
+	</car>
+	<car>
+		<plate>716DJR</plate>
+		<year>2001</year>
+		<make>Audi</make>
+		<model>RS 4 Avant</model>
+		<price>10462</price>
+	</car>
+	<car>
+		<plate>413PCY</plate>
+		<year>1998</year>
+		<make>Nissan</make>
+		<model>Silvia K's AERO</model>
+		<price>38628</price>
+	</car>
+	<car>
+		<plate>226GUS</plate>
+		<year>1996</year>
+		<make>Ferrari</make>
+		<model>F50 GT</model>
+		<price>27392</price>
+	</car>
+	<car>
+		<plate>877AFO</plate>
+		<year>1970</year>
+		<make>GMC</make>
+		<model>Jimmy</model>
+		<price>16166</price>
+	</car>
+	<car>
+		<plate>979LRM</plate>
+		<year>2019</year>
+		<make>Brabham</make>
+		<model>BT62</model>
+		<price>4114</price>
+	</car>
+	<car>
+		<plate>147TUX</plate>
+		<year>1986</year>
+		<make>Ford</make>
+		<model>Mustang SVO</model>
+		<price>6474</price>
+	</car>
+	<car>
+		<plate>254WOA</plate>
+		<year>2015</year>
+		<make>Lexus</make>
+		<model>RC F</model>
+		<price>16289</price>
+	</car>
+	<car>
+		<plate>566FQJ</plate>
+		<year>2022</year>
+		<make>Extreme-E</make>
+		<model>#58 McLaren Racing</model>
+		<price>6063</price>
+	</car>
+	<car>
+		<plate>979WFA</plate>
+		<year>2022</year>
+		<make>Extreme-E</make>
+		<model>#44 X44</model>
+		<price>37979</price>
+	</car>
+	<car>
+		<plate>446XIV</plate>
+		<year>2018</year>
+		<make>McLaren</make>
+		<model>720S CoupÃ©</model>
+		<price>37715</price>
+	</car>
+	<car>
+		<plate>063UTI</plate>
+		<year>1995</year>
+		<make>Porsche</make>
+		<model>911 Carrera 2 by Gunther Werks</model>
+		<price>32016</price>
+	</car>
+	<car>
+		<plate>886XMC</plate>
+		<year>2008</year>
+		<make>Dodge</make>
+		<model>Magnum SRT-8</model>
+		<price>28565</price>
+	</car>
+	<car>
+		<plate>882CLP</plate>
+		<year>2015</year>
+		<make>Mercedes-Benz</make>
+		<model>#24 Tankpool24 Racing Truck Forza Edition</model>
+		<price>32238</price>
+	</car>
+	<car>
+		<plate>811AGJ</plate>
+		<year>1984</year>
+		<make>Opel</make>
+		<model>Manta 400</model>
+		<price>17331</price>
+	</car>
+	<car>
+		<plate>881KVC</plate>
+		<year>2014</year>
+		<make>Porsche</make>
+		<model>918 Spyder</model>
+		<price>2692</price>
+	</car>
+	<car>
+		<plate>969NQE</plate>
+		<year>2002</year>
+		<make>Nissan</make>
+		<model>Skyline GT-R V-Spec II</model>
+		<price>34956</price>
+	</car>
+	<car>
+		<plate>343RAC</plate>
+		<year>2014</year>
+		<make>Mini</make>
+		<model>X-Raid All4 Racing Countryman</model>
+		<price>9791</price>
+	</car>
+	<car>
+		<plate>319OJP</plate>
+		<year>2018</year>
+		<make>Honda</make>
+		<model>Civic Type R</model>
+		<price>26397</price>
+	</car>
+	<car>
+		<plate>212QLQ</plate>
+		<year>2004</year>
+		<make>Mitsubishi</make>
+		<model>Lancer Evolution VIII MR</model>
+		<price>12591</price>
+	</car>
+	<car>
+		<plate>641JYH</plate>
+		<year>1969</year>
+		<make>Ferrari</make>
+		<model>Dino 246 GT</model>
+		<price>16007</price>
+	</car>
+	<car>
+		<plate>296HAS</plate>
+		<year>2009</year>
+		<make>Audi</make>
+		<model>RS 6</model>
+		<price>14274</price>
+	</car>
+	<car>
+		<plate>132RUV</plate>
+		<year>1994</year>
+		<make>Honda</make>
+		<model>Prelude Si</model>
+		<price>36999</price>
+	</car>
+	<car>
+		<plate>333CRH</plate>
+		<year>2017</year>
+		<make>Nissan</make>
+		<model>GT-R (R35)</model>
+		<price>21958</price>
+	</car>
+	<car>
+		<plate>510GXL</plate>
+		<year>2010</year>
+		<make>Maserati</make>
+		<model>Gran Turismo S Forza Edition</model>
+		<price>38203</price>
+	</car>
+	<car>
+		<plate>299QJH</plate>
+		<year>2018</year>
+		<make>Porsche</make>
+		<model>Macan Rally Raid</model>
+		<price>19754</price>
+	</car>
+	<car>
+		<plate>093URC</plate>
+		<year>2012</year>
+		<make>Nissan</make>
+		<model>GT-R Black Edition (R35)</model>
+		<price>23394</price>
+	</car>
+	<car>
+		<plate>390TEN</plate>
+		<year>2003</year>
+		<make>Volkswagen</make>
+		<model>Golf R32</model>
+		<price>27516</price>
+	</car>
+	<car>
+		<plate>489KGU</plate>
+		<year>2018</year>
+		<make>Honda</make>
+		<model>Civic Type R</model>
+		<price>28891</price>
+	</car>
+	<car>
+		<plate>594BKR</plate>
+		<year>1983</year>
+		<make>GMC</make>
+		<model>Vandura G-1500</model>
+		<price>21228</price>
+	</car>
+</car_list>
